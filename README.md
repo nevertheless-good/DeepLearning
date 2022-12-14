@@ -1,5 +1,5 @@
 # DeepLearning
 
-MobileNet
-EfficientNet
+MobileNet   
+EfficientNet   
 YOLO
